@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\Rverse\bin\Debug\Rverse.exe.config
+C:\Users\Srajan\source\repos\Rverse\bin\Debug\Rverse.exe
+C:\Users\Srajan\source\repos\Rverse\bin\Debug\Rverse.pdb
+C:\Users\Srajan\source\repos\Rverse\obj\Debug\Rverse.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\Rverse\obj\Debug\Rverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\Rverse\obj\Debug\Rverse.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\Rverse\obj\Debug\Rverse.exe
+C:\Users\Srajan\source\repos\Rverse\obj\Debug\Rverse.pdb

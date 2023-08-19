@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\Searching\bin\Debug\Searching.exe.config
+C:\Users\Srajan\source\repos\Searching\bin\Debug\Searching.exe
+C:\Users\Srajan\source\repos\Searching\bin\Debug\Searching.pdb
+C:\Users\Srajan\source\repos\Searching\obj\Debug\Searching.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\Searching\obj\Debug\Searching.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\Searching\obj\Debug\Searching.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\Searching\obj\Debug\Searching.exe
+C:\Users\Srajan\source\repos\Searching\obj\Debug\Searching.pdb

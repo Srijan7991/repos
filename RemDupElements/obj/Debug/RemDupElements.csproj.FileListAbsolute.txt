@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\RemDupElements\bin\Debug\RemDupElements.exe.config
+C:\Users\Srajan\source\repos\RemDupElements\bin\Debug\RemDupElements.exe
+C:\Users\Srajan\source\repos\RemDupElements\bin\Debug\RemDupElements.pdb
+C:\Users\Srajan\source\repos\RemDupElements\obj\Debug\RemDupElements.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\RemDupElements\obj\Debug\RemDupElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\RemDupElements\obj\Debug\RemDupElements.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\RemDupElements\obj\Debug\RemDupElements.exe
+C:\Users\Srajan\source\repos\RemDupElements\obj\Debug\RemDupElements.pdb

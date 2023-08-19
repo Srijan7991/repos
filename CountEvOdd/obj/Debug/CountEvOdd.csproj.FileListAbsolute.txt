@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\CountEvOdd\bin\Debug\CountEvOdd.exe.config
+C:\Users\Srajan\source\repos\CountEvOdd\bin\Debug\CountEvOdd.exe
+C:\Users\Srajan\source\repos\CountEvOdd\bin\Debug\CountEvOdd.pdb
+C:\Users\Srajan\source\repos\CountEvOdd\obj\Debug\CountEvOdd.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\CountEvOdd\obj\Debug\CountEvOdd.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\CountEvOdd\obj\Debug\CountEvOdd.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\CountEvOdd\obj\Debug\CountEvOdd.exe
+C:\Users\Srajan\source\repos\CountEvOdd\obj\Debug\CountEvOdd.pdb

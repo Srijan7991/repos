@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\CommonElement\bin\Debug\CommonElement.exe.config
+C:\Users\Srajan\source\repos\CommonElement\bin\Debug\CommonElement.exe
+C:\Users\Srajan\source\repos\CommonElement\bin\Debug\CommonElement.pdb
+C:\Users\Srajan\source\repos\CommonElement\obj\Debug\CommonElement.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\CommonElement\obj\Debug\CommonElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\CommonElement\obj\Debug\CommonElement.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\CommonElement\obj\Debug\CommonElement.exe
+C:\Users\Srajan\source\repos\CommonElement\obj\Debug\CommonElement.pdb

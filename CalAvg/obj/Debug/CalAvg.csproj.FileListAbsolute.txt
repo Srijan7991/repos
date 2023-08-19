@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\CalAvg\bin\Debug\CalAvg.exe.config
+C:\Users\Srajan\source\repos\CalAvg\bin\Debug\CalAvg.exe
+C:\Users\Srajan\source\repos\CalAvg\bin\Debug\CalAvg.pdb
+C:\Users\Srajan\source\repos\CalAvg\obj\Debug\CalAvg.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\CalAvg\obj\Debug\CalAvg.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\CalAvg\obj\Debug\CalAvg.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\CalAvg\obj\Debug\CalAvg.exe
+C:\Users\Srajan\source\repos\CalAvg\obj\Debug\CalAvg.pdb

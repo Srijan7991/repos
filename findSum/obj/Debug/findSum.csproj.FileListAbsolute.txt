@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\findSum\bin\Debug\findSum.exe.config
+C:\Users\Srajan\source\repos\findSum\bin\Debug\findSum.exe
+C:\Users\Srajan\source\repos\findSum\bin\Debug\findSum.pdb
+C:\Users\Srajan\source\repos\findSum\obj\Debug\findSum.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\findSum\obj\Debug\findSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\findSum\obj\Debug\findSum.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\findSum\obj\Debug\findSum.exe
+C:\Users\Srajan\source\repos\findSum\obj\Debug\findSum.pdb

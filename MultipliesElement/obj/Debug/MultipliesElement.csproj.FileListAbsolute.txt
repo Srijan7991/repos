@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\MultipliesElement\bin\Debug\MultipliesElement.exe.config
+C:\Users\Srajan\source\repos\MultipliesElement\bin\Debug\MultipliesElement.exe
+C:\Users\Srajan\source\repos\MultipliesElement\bin\Debug\MultipliesElement.pdb
+C:\Users\Srajan\source\repos\MultipliesElement\obj\Debug\MultipliesElement.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\MultipliesElement\obj\Debug\MultipliesElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\MultipliesElement\obj\Debug\MultipliesElement.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\MultipliesElement\obj\Debug\MultipliesElement.exe
+C:\Users\Srajan\source\repos\MultipliesElement\obj\Debug\MultipliesElement.pdb

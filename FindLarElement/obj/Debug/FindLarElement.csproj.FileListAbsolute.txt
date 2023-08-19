@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\FindLarElement\bin\Debug\FindLarElement.exe.config
+C:\Users\Srajan\source\repos\FindLarElement\bin\Debug\FindLarElement.exe
+C:\Users\Srajan\source\repos\FindLarElement\bin\Debug\FindLarElement.pdb
+C:\Users\Srajan\source\repos\FindLarElement\obj\Debug\FindLarElement.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\FindLarElement\obj\Debug\FindLarElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\FindLarElement\obj\Debug\FindLarElement.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\FindLarElement\obj\Debug\FindLarElement.exe
+C:\Users\Srajan\source\repos\FindLarElement\obj\Debug\FindLarElement.pdb

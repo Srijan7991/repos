@@ -1,0 +1,8 @@
+C:\Users\Srajan\source\repos\SecSmallest\bin\Debug\SecSmallest.exe.config
+C:\Users\Srajan\source\repos\SecSmallest\bin\Debug\SecSmallest.exe
+C:\Users\Srajan\source\repos\SecSmallest\bin\Debug\SecSmallest.pdb
+C:\Users\Srajan\source\repos\SecSmallest\obj\Debug\SecSmallest.csproj.AssemblyReference.cache
+C:\Users\Srajan\source\repos\SecSmallest\obj\Debug\SecSmallest.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srajan\source\repos\SecSmallest\obj\Debug\SecSmallest.csproj.CoreCompileInputs.cache
+C:\Users\Srajan\source\repos\SecSmallest\obj\Debug\SecSmallest.exe
+C:\Users\Srajan\source\repos\SecSmallest\obj\Debug\SecSmallest.pdb
